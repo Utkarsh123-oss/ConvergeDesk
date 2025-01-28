@@ -4,7 +4,7 @@
       "sender": "john.doe@example.com",
       "recipient": "jane.smith@example.com",
       "subject": "Meeting Reminder",
-      "body": "Hi Jane,\n\nJust a reminder about the meeting scheduled for tomorrow at 10:00 AM in Conference Room A.\n\nBest,\nJohn",
+      "body": "Slack-Hi Jane,\n\nJust a reminder about the meeting scheduled for tomorrow at 10:00 AM in Conference Room A.\n\nBest,\nJohn",
       "timestamp": "2025-01-28T09:00:00Z",
       "isRead": false
     },
@@ -13,7 +13,7 @@
       "sender": "notifications@example.com - slack",
       "recipient": "jane.smith@example.com",
       "subject": "Weekly Newsletter",
-      "body": "Hello Jane,\n\nHere’s your weekly newsletter! Check out our latest updates and articles.\n\nCheers,\nTeam Example",
+      "body": "Slack-Hello Jane,\n\nHere’s your weekly newsletter! Check out our latest updates and articles.\n\nCheers,\nTeam Example",
       "timestamp": "2025-01-27T14:30:00Z",
       "isRead": true
     },
@@ -22,7 +22,7 @@
       "sender": "jane.smith@example.com",
       "recipient": "support@example.com",
       "subject": "Issue with Order #12345",
-      "body": "Dear Support,\n\nI’m writing to report an issue with my recent order #12345. Please assist.\n\nThank you,\nJane",
+      "body": "Slack-Dear Support,\n\nI’m writing to report an issue with my recent order #12345. Please assist.\n\nThank you,\nJane",
       "timestamp": "2025-01-26T08:15:00Z",
       "isRead": true
     },
@@ -31,7 +31,7 @@
       "sender": "team@companyupdates.com",
       "recipient": "john.doe@example.com",
       "subject": "Company Updates",
-      "body": "Dear John,\n\nWe’re thrilled to share some exciting updates about our company.\n\nBest regards,\nThe Company Team",
+      "body": "Slack-Dear John,\n\nWe’re thrilled to share some exciting updates about our company.\n\nBest regards,\nThe Company Team",
       "timestamp": "2025-01-25T16:45:00Z",
       "isRead": false
     },
@@ -40,7 +40,7 @@
       "sender": "friend@example.com",
       "recipient": "john.doe@example.com",
       "subject": "Catch-Up Soon?",
-      "body": "Hey John,\n\nIt’s been a while since we last caught up. Let me know when you’re free to grab a coffee.\n\nCheers,\nYour Friend",
+      "body": "Slack-Hey John,\n\nIt’s been a while since we last caught up. Let me know when you’re free to grab a coffee.\n\nCheers,\nYour Friend",
       "timestamp": "2025-01-24T12:20:00Z",
       "isRead": false
     }
