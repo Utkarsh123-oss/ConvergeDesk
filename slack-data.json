@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "sender": "notifications@example.com- slack",
+      "sender": "notifications@example.com - slack",
       "recipient": "jane.smith@example.com",
       "subject": "Weekly Newsletter",
       "body": "Hello Jane,\n\nHere’s your weekly newsletter! Check out our latest updates and articles.\n\nCheers,\nTeam Example",
